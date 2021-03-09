@@ -17,9 +17,16 @@ added tmp lines
 =======
 added lines for master
 >>>>>>> master
+<<<<<<< HEAD
 
 
 added github line
 
 
 adding locally and then pushing it remotely
+||||||| ce60551
+=======
+
+
+added tmp again the to github
+>>>>>>> tmp
