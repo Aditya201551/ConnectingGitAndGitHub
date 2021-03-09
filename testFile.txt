@@ -30,3 +30,7 @@ adding locally and then pushing it remotely
 
 added tmp again the to github
 >>>>>>> tmp
+
+
+
+now adding to master then push it to github
