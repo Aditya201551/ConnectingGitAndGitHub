@@ -1,0 +1,12 @@
+h1{
+    text-align:center;
+    color:coral;
+}
+
+table,td{
+    border: 1px solid black;
+}
+
+table{
+    margin:auto;
+}

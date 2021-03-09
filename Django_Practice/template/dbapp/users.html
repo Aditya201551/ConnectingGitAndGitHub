@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+{% load static %}
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{% static 'css/users.css' %}">
+    <title>User List</title>
+</head>
+<body>
+    <h1>List of users in database</h1>
+
+    {% if users %}
+
+    <table>
+        <tr>
+            <th>First Name</th>
+            <th>Last Name</th>
+            <th>Email</th>
+        </tr>
+        {% for i in users %}
+        <tr>
+        <td>{{ i.first_name }}</td>
+        <td>{{ i.last_name }}</td>
+        <td>{{ i.email }}</td>
+        </tr>
+        {% endfor %}
+        </table>
+    {% else %}
+    <h1>NO RECORD FOUND</h1>
+    {% endif %}
+
+    <script src="{% static 'js/user_script.js' %}"></script>
+</body>
+</html>
