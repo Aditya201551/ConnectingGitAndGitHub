@@ -20,3 +20,6 @@ added lines for master
 
 
 added github line
+
+
+adding locally and then pushing it remotely
