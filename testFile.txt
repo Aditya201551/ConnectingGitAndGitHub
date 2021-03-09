@@ -5,3 +5,5 @@ This is file that will be used to test git commands and git workflow
 new line added
 
 new line added again
+
+added new line while in tmp branch
