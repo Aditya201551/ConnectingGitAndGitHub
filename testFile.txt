@@ -38,6 +38,12 @@ now adding to master then push it to github
 now this line will be in tmp for a while
 
 adding pull request
+<<<<<<< HEAD
 
 
 test add.
+||||||| e5a7a76
+=======
+
+resolving auto merge
+>>>>>>> 6bb68269c8bb936f31288a6f3ff55b3444d47ba9
