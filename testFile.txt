@@ -35,4 +35,4 @@ added tmp again the to github
 
 now adding to master then push it to github
 
-not this line will be in tmp for a while
+now this line will be in tmp for a while
