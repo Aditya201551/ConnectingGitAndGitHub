@@ -1,0 +1,2 @@
+Test file added 
+This is file that will be used to test git commands and git workflow
